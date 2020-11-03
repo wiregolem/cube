@@ -1,11 +1,11 @@
 # cube
-Goal: Display a rotating cube 
-Current status: Displays a very stationary cube
+- Goal: Display a rotating cube 
+- Current status: Displays a very stationary cube
 
 ## Setup
--Requires Linux using the X11 window system
--gcc is installed on most linux distributions by default
--simply clone and build
+- Requires Linux using the X11 window system
+- gcc is installed on most linux distributions by default
+- simply clone and build
 
 ## Clone
 - `$ git clone https://github.com/wiregolem/cube.git`
@@ -20,7 +20,7 @@ Current status: Displays a very stationary cube
 
 
 ### gfx graphics library
-Uses a simple graphics library `gfx.c & gfx.h` created by Professor Douglas Thain of The University of Notre Dame
-The graphics library is licensed under a Creative Commons Attribution 4.0 International License.  https://creativecommons.org/licenses/by/4.0/
+- Uses a simple graphics library `gfx.c & gfx.h` created by Professor Douglas Thain of The University of Notre Dame
+- The graphics library is licensed under a Creative Commons Attribution 4.0 International License.  https://creativecommons.org/licenses/by/4.0/
 
 
