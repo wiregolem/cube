@@ -1,6 +1,12 @@
 # cube
 - Goal: Display a rotating cube 
 - Current status: Displays a very stationary cube
+## Approach
+- Learning linear algebra may be best approach
+  1. Create cube as 3D matrix of 8 vertices
+  2. Project: Draw product of 3D matrix 2D projection matrix
+  3. Transform: Multiply 3D matrix by rotational transformation matrix of chosen axis
+  4. Clear screen and repeat steps 2-4
 
 ## Setup
 - Requires Linux using the X11 window system
